@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1036948481534",
+    "project_id": "finding-ally",
+    "storage_bucket": "finding-ally.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036948481534:android:5f0e163d52884073be0caf",
+        "android_client_info": {
+          "package_name": "com.example.finding_ally"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036948481534-4mheeo48qo57c5ec0hehsvmenlr7ras3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzt54DOiOOstpxLL7ps4QGwlmCE3HIn1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036948481534-4mheeo48qo57c5ec0hehsvmenlr7ras3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1036948481534-h2531npiadgp2mlsbcgsipr6a0ejha6a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.studdyPartner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
